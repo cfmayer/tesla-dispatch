@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cfmayer.github.io/tesla-dispatch/sitemap.xml

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>The Tesla Dispatch</title>
+  <subtitle>Weekday briefing on Tesla&#x27;s cars, autonomy, robots, energy and stock</subtitle>
+  <link rel="self" type="application/atom+xml" href="https://cfmayer.github.io/tesla-dispatch/feed.xml"/>
+  <link rel="alternate" type="text/html" href="https://cfmayer.github.io/tesla-dispatch/"/>
+  <id>https://cfmayer.github.io/tesla-dispatch/</id>
+  <updated>2026-10-08T15:16:03-04:00</updated>
+  <author><name>The Tesla Dispatch</name></author>
+  <icon>https://cfmayer.github.io/tesla-dispatch/apple-touch-icon.png</icon>
+  <rights>The Tesla Dispatch is an independent weekday digest of public news, X posts, regulatory filings and market data about Tesla, Inc., and is not affiliated with the company. Quotes are verbatim; emoji in quoted posts are omitted for print. Market data are delayed and may be revised. Not investment advice.</rights>
+  <entry>
+    <title>Thursday, October 8, 2026: Model Y rules Europe&#x27;s September charts, Slovakia readies Full Self-Driving, and Dan Ives returns with a $500 target</title>
+    <link rel="alternate" type="text/html" href="https://cfmayer.github.io/tesla-dispatch/issues/2026-10-08/"/>
+    <link rel="enclosure" type="application/pdf" length="686759" href="https://cfmayer.github.io/tesla-dispatch/issues/2026-10-08/tesla-dispatch-2026-10-08.pdf"/>
+    <id>https://cfmayer.github.io/tesla-dispatch/issues/2026-10-08/</id>
+    <published>2026-10-08T08:00:00-04:00</published>
+    <updated>2026-10-08T15:16:03-04:00</updated>
+    <summary type="html">&lt;p&gt;Wednesday&#x27;s news came mostly from Europe. Tesla said the Model Y was the best-selling passenger car in all five Nordic countries in September, and German registration data showed it outsold the Volkswagen Golf by about 22%. Slovakia&#x27;s transport minister said the country would approve Full Self-Driving (FSD) (Supervised) &quot;within days,&quot; which would make it the ninth European Union (EU) country to do so, as a new FSD build, v14.3.11, began reaching owners. Tesla will also show a Cybercab and an Optimus robot at the Paris Motor Show next week.&lt;/p&gt;&lt;p&gt;On Wall Street, Dan Ives made Tesla his first call at his new firm, Yorkville Ives, with an Outperform rating and a $500 price target, and UBS raised its target to $391. The stock still slipped 0.75% to $377.81 on light volume, ending a three-day winning streak. In energy, more than 85,000 California Powerwalls sent over 600 megawatts (MW) to the grid in a record virtual power plant event, and the first Semi Megacharger on the East Coast opened near Atlanta. Tesla has filed nothing new with the Securities and Exchange Commission (SEC) since Wednesday morning; third-quarter results arrive October 21.&lt;/p&gt;</summary>
+  </entry>
+</feed>
