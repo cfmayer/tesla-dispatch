@@ -5,10 +5,19 @@
   <link rel="self" type="application/atom+xml" href="https://cfmayer.github.io/tesla-dispatch/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://cfmayer.github.io/tesla-dispatch/"/>
   <id>https://cfmayer.github.io/tesla-dispatch/</id>
-  <updated>2026-10-08T15:16:03-04:00</updated>
+  <updated>2026-10-09T08:45:50-04:00</updated>
   <author><name>The Tesla Dispatch</name></author>
   <icon>https://cfmayer.github.io/tesla-dispatch/apple-touch-icon.png</icon>
   <rights>The Tesla Dispatch is an independent weekday digest of public news, X posts, regulatory filings and market data about Tesla, Inc., and is not affiliated with the company. Quotes are verbatim; emoji in quoted posts are omitted for print. Market data are delayed and may be revised. Not investment advice.</rights>
+  <entry>
+    <title>Friday, October 9, 2026: Full Self-Driving gets a new European name, Texas adds 150 Cybercabs overnight, and Shanghai posts its best month of 2026</title>
+    <link rel="alternate" type="text/html" href="https://cfmayer.github.io/tesla-dispatch/issues/2026-10-09/"/>
+    <link rel="enclosure" type="application/pdf" length="668110" href="https://cfmayer.github.io/tesla-dispatch/issues/2026-10-09/tesla-dispatch-2026-10-09.pdf"/>
+    <id>https://cfmayer.github.io/tesla-dispatch/issues/2026-10-09/</id>
+    <published>2026-10-09T08:00:00-04:00</published>
+    <updated>2026-10-09T08:45:50-04:00</updated>
+    <summary type="html">&lt;p&gt;Tesla&#x27;s European websites now sell Full Self-Driving (FSD) (Supervised) as &quot;Tesla Assisted Driving,&quot; a rename that follows talks with Germany&#x27;s transport ministry, which has promised to back European Union (EU) approval in a vote expected no earlier than December. In Texas, Tesla added a record 150 Cybercabs to the state&#x27;s automated-vehicle registry in a single batch, nearly doubling the purpose-built robotaxi&#x27;s count to 319. Lemonade extended its FSD insurance discount to older Hardware 3 cars running the new v14 Lite.&lt;/p&gt;&lt;p&gt;China&#x27;s passenger car association said Tesla sold 95,366 China-made cars in September, its highest monthly total this year, as exports from Shanghai rose 58%. Pilot and Tesla opened their first shared Megacharger site for the Tesla Semi in Georgia, and Elon Musk received the National Medal of Science at the White House. The stock eased 0.74% to $375.00 on Thursday while the Nasdaq 100 fell 1.39%. Tesla has filed nothing new with the Securities and Exchange Commission (SEC) since Thursday morning; third-quarter results arrive October 21.&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>Thursday, October 8, 2026: Model Y rules Europe&#x27;s September charts, Slovakia readies Full Self-Driving, and Dan Ives returns with a $500 target</title>
     <link rel="alternate" type="text/html" href="https://cfmayer.github.io/tesla-dispatch/issues/2026-10-08/"/>
