@@ -5,10 +5,19 @@
   <link rel="self" type="application/atom+xml" href="https://cfmayer.github.io/tesla-dispatch/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://cfmayer.github.io/tesla-dispatch/"/>
   <id>https://cfmayer.github.io/tesla-dispatch/</id>
-  <updated>2026-10-09T08:45:50-04:00</updated>
+  <updated>2026-10-12T08:46:38-04:00</updated>
   <author><name>The Tesla Dispatch</name></author>
   <icon>https://cfmayer.github.io/tesla-dispatch/apple-touch-icon.png</icon>
   <rights>The Tesla Dispatch is an independent weekday digest of public news, X posts, regulatory filings and market data about Tesla, Inc., and is not affiliated with the company. Quotes are verbatim; emoji in quoted posts are omitted for print. Market data are delayed and may be revised. Not investment advice.</rights>
+  <entry>
+    <title>Monday, October 12, 2026: 300 Cybercabs in Austin and &quot;Dallas soon,&quot; a new FSD build, and a week of Paris and the Roadster ahead</title>
+    <link rel="alternate" type="text/html" href="https://cfmayer.github.io/tesla-dispatch/issues/2026-10-12/"/>
+    <link rel="enclosure" type="application/pdf" length="626924" href="https://cfmayer.github.io/tesla-dispatch/issues/2026-10-12/tesla-dispatch-2026-10-12.pdf"/>
+    <id>https://cfmayer.github.io/tesla-dispatch/issues/2026-10-12/</id>
+    <published>2026-10-12T08:00:00-04:00</published>
+    <updated>2026-10-12T08:46:38-04:00</updated>
+    <summary type="html">&lt;p&gt;Tesla&#x27;s Robotaxi account said on Saturday that more than 300 Cybercabs now serve Austin, eight times as many as a month ago, and Tesla&#x27;s head of AI software, Ashok Elluswamy, added &quot;Dallas soon.&quot; An independent tracker counted 105 Cybercabs in unsupervised service the same day. Software 2026.38.5, carrying Full Self-Driving (FSD) (Supervised) v14.3.12 for newer cars and v14.3 Lite for Hardware 3, began reaching owners on Saturday. Slovakia is still preparing the letter that would make it the ninth European Union (EU) country to allow the system.&lt;/p&gt;&lt;p&gt;Speaking by video at the fan-run X Takeover at Giga Texas, Elon Musk said Tesla aims to produce ten chip designs a year and that China&#x27;s magnet export ban set Optimus back two to three months. The stock rose 2.05% to $382.70 on Friday, ahead of the S&amp;amp;P 500&#x27;s 0.59% gain. The Paris Motor Show runs through Sunday, the new Roadster is unveiled Thursday, and third-quarter results follow on October 21. Tesla has filed nothing new with the Securities and Exchange Commission (SEC) since Friday morning.&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>Friday, October 9, 2026: Full Self-Driving gets a new European name, Texas adds 150 Cybercabs overnight, and Shanghai posts its best month of 2026</title>
     <link rel="alternate" type="text/html" href="https://cfmayer.github.io/tesla-dispatch/issues/2026-10-09/"/>
