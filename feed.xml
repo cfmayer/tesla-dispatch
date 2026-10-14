@@ -5,10 +5,19 @@
   <link rel="self" type="application/atom+xml" href="https://cfmayer.github.io/tesla-dispatch/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://cfmayer.github.io/tesla-dispatch/"/>
   <id>https://cfmayer.github.io/tesla-dispatch/</id>
-  <updated>2026-10-13T08:29:55-04:00</updated>
+  <updated>2026-10-14T08:27:44-04:00</updated>
   <author><name>The Tesla Dispatch</name></author>
   <icon>https://cfmayer.github.io/tesla-dispatch/apple-touch-icon.png</icon>
   <rights>The Tesla Dispatch is an independent weekday digest of public news, X posts, regulatory filings and market data about Tesla, Inc., and is not affiliated with the company. Quotes are verbatim; emoji in quoted posts are omitted for print. Market data are delayed and may be revised. Not investment advice.</rights>
+  <entry>
+    <title>Wednesday, October 14, 2026: Roadster goes live Thursday night; HW3 cars get a distilled FSD</title>
+    <link rel="alternate" type="text/html" href="https://cfmayer.github.io/tesla-dispatch/issues/2026-10-14/"/>
+    <link rel="enclosure" type="application/pdf" length="453200" href="https://cfmayer.github.io/tesla-dispatch/issues/2026-10-14/tesla-dispatch-2026-10-14.pdf"/>
+    <id>https://cfmayer.github.io/tesla-dispatch/issues/2026-10-14/</id>
+    <published>2026-10-14T08:00:00-04:00</published>
+    <updated>2026-10-14T08:27:44-04:00</updated>
+    <summary type="html">&lt;p&gt;Tesla has set a start time for the Roadster demonstration: the livestream begins Thursday at 7:55 p.m. Central, 8:55 p.m. EDT, &lt;a href=&quot;https://x.com/Tesla/status/2110165104713183485&quot;&gt;Tesla posted&lt;/a&gt; on Tuesday night. Elon Musk &lt;a href=&quot;https://x.com/elonmusk/status/2110222071229989249&quot;&gt;added&lt;/a&gt;: &quot;Timing is everything.&quot; Release notes for software 2026.38.5.1 describe a version of FSD (Supervised) for older Hardware 3 (HW3) cars trained using the newer HW4 software as a guide.&lt;/p&gt;&lt;p&gt;US Model 3 and Model Y buyers can now power their homes from the car in an outage with Powershare Home Backup. In Canada, the cheaper China-built Model 3 is off the order page until March 2027. TSLA slipped 0.74% to $375.23 on about half its usual volume. Tesla has filed nothing new with the SEC.&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>Tuesday, October 13, 2026: FSD becomes &quot;Tesla Assisted Driving&quot; in Europe, as regulators look at school-zone speeding</title>
     <link rel="alternate" type="text/html" href="https://cfmayer.github.io/tesla-dispatch/issues/2026-10-13/"/>
