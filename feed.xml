@@ -5,10 +5,19 @@
   <link rel="self" type="application/atom+xml" href="https://cfmayer.github.io/tesla-dispatch/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://cfmayer.github.io/tesla-dispatch/"/>
   <id>https://cfmayer.github.io/tesla-dispatch/</id>
-  <updated>2026-10-14T08:27:44-04:00</updated>
+  <updated>2026-10-15T08:32:28-04:00</updated>
   <author><name>The Tesla Dispatch</name></author>
   <icon>https://cfmayer.github.io/tesla-dispatch/apple-touch-icon.png</icon>
   <rights>The Tesla Dispatch is an independent weekday digest of public news, X posts, regulatory filings and market data about Tesla, Inc., and is not affiliated with the company. Quotes are verbatim; emoji in quoted posts are omitted for print. Market data are delayed and may be revised. Not investment advice.</rights>
+  <entry>
+    <title>Thursday, October 15, 2026: Roadster night: the livestream starts at 8:55 p.m. EDT</title>
+    <link rel="alternate" type="text/html" href="https://cfmayer.github.io/tesla-dispatch/issues/2026-10-15/"/>
+    <link rel="enclosure" type="application/pdf" length="453964" href="https://cfmayer.github.io/tesla-dispatch/issues/2026-10-15/tesla-dispatch-2026-10-15.pdf"/>
+    <id>https://cfmayer.github.io/tesla-dispatch/issues/2026-10-15/</id>
+    <published>2026-10-15T08:00:00-04:00</published>
+    <updated>2026-10-15T08:32:28-04:00</updated>
+    <summary type="html">&lt;p&gt;Tesla shows its new Roadster tonight near Waco, Texas, nearly nine years after the first reveal. &quot;The new Tesla Roadster is a candidate for greatest product demo of all time,&quot; Elon Musk &lt;a aria-label=&quot;posted: @elonmusk on X&quot; href=&quot;https://x.com/elonmusk/status/2110549767063507044&quot;&gt;posted&lt;/a&gt; late Wednesday, and later &lt;a href=&quot;https://x.com/elonmusk/status/2110571266889646239&quot;&gt;added&lt;/a&gt; that the demo &quot;will be a BANGER, probably metaphorically, though some chance literally.&quot; Tesla&#x27;s own account asked, &quot;&lt;a href=&quot;https://x.com/Tesla/status/2110420241104953532&quot;&gt;Anything happening tomorrow?&lt;/a&gt;&quot;&lt;/p&gt;&lt;p&gt;FSD (Supervised) v14.3 Lite is reaching older Hardware 3 Model S and Model X cars for the first time. TSLA fell 2.15% to $367.16 as a hotter-than-expected inflation report sent the Nasdaq 100 down 2.02%. Tesla has filed nothing new with the SEC.&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>Wednesday, October 14, 2026: Roadster goes live Thursday night; HW3 cars get a distilled FSD</title>
     <link rel="alternate" type="text/html" href="https://cfmayer.github.io/tesla-dispatch/issues/2026-10-14/"/>
