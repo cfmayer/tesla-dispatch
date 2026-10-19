@@ -5,10 +5,19 @@
   <link rel="self" type="application/atom+xml" href="https://cfmayer.github.io/tesla-dispatch/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://cfmayer.github.io/tesla-dispatch/"/>
   <id>https://cfmayer.github.io/tesla-dispatch/</id>
-  <updated>2026-10-16T08:20:14-04:00</updated>
+  <updated>2026-10-19T08:45:00-04:00</updated>
   <author><name>The Tesla Dispatch</name></author>
   <icon>https://cfmayer.github.io/tesla-dispatch/apple-touch-icon.png</icon>
   <rights>The Tesla Dispatch is an independent weekday digest of public news, X posts, regulatory filings and market data about Tesla, Inc., and is not affiliated with the company. Quotes are verbatim; emoji in quoted posts are omitted for print. Market data are delayed and may be revised. Not investment advice.</rights>
+  <entry>
+    <title>Monday, October 19, 2026: A December vote on Musk, Denholm and Straubel</title>
+    <link rel="alternate" type="text/html" href="https://cfmayer.github.io/tesla-dispatch/issues/2026-10-19/"/>
+    <link rel="enclosure" type="application/pdf" length="729501" href="https://cfmayer.github.io/tesla-dispatch/issues/2026-10-19/tesla-dispatch-2026-10-19.pdf"/>
+    <id>https://cfmayer.github.io/tesla-dispatch/issues/2026-10-19/</id>
+    <published>2026-10-19T08:00:00-04:00</published>
+    <updated>2026-10-19T08:45:00-04:00</updated>
+    <summary type="html">&lt;p&gt;Tesla filed its proxy before dawn Monday: shareholders meet December 3 at Gigafactory Texas to re-elect Elon Musk, chair Robyn Denholm and JB Straubel, cast an advisory vote on 2025 pay and ratify the auditor, according to the &lt;a href=&quot;https://www.sec.gov/Archives/edgar/data/1318605/000110465926116700/tm267596-1_def14a.htm&quot;&gt;DEF 14A&lt;/a&gt;. There is no merger proposal, despite a prediction market putting the odds of a Tesla-SpaceX deal before March at 56%, &lt;a href=&quot;https://www.cnbc.com/2026/10/16/tesla-spacex-merger-odds-rise-on-kalshi.html&quot;&gt;CNBC reported&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Over the weekend, Slovakia cleared FSD (Supervised) and Austin robotaxi rides were extended to midnight. Musk wrote that &quot;Optimus and Cybercab will be the vast majority of Tesla&#x27;s value.&quot; TSLA fell 2.13% to $354.72 on Friday as the Nasdaq dropped, and third-quarter results come Wednesday.&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>Friday, October 16, 2026: The Roadster flies, and it is two years away</title>
     <link rel="alternate" type="text/html" href="https://cfmayer.github.io/tesla-dispatch/issues/2026-10-16/"/>
