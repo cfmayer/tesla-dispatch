@@ -5,10 +5,19 @@
   <link rel="self" type="application/atom+xml" href="https://cfmayer.github.io/tesla-dispatch/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://cfmayer.github.io/tesla-dispatch/"/>
   <id>https://cfmayer.github.io/tesla-dispatch/</id>
-  <updated>2026-10-20T09:03:44-04:00</updated>
+  <updated>2026-10-21T08:59:33-04:00</updated>
   <author><name>The Tesla Dispatch</name></author>
   <icon>https://cfmayer.github.io/tesla-dispatch/apple-touch-icon.png</icon>
   <rights>The Tesla Dispatch is an independent weekday digest of public news, X posts, regulatory filings and market data about Tesla, Inc., and is not affiliated with the company. Quotes are verbatim; emoji in quoted posts are omitted for print. Market data are delayed and may be revised. Not investment advice.</rights>
+  <entry>
+    <title>Wednesday, October 21, 2026: Results day, with a merger in the air</title>
+    <link rel="alternate" type="text/html" href="https://cfmayer.github.io/tesla-dispatch/issues/2026-10-21/"/>
+    <link rel="enclosure" type="application/pdf" length="726473" href="https://cfmayer.github.io/tesla-dispatch/issues/2026-10-21/tesla-dispatch-2026-10-21.pdf"/>
+    <id>https://cfmayer.github.io/tesla-dispatch/issues/2026-10-21/</id>
+    <published>2026-10-21T08:00:00-04:00</published>
+    <updated>2026-10-21T08:59:33-04:00</updated>
+    <summary type="html">&lt;p&gt;Tesla reports its third quarter after Wednesday&#x27;s close. The night before, on SpaceX&#x27;s earnings webcast, Elon Musk said Tesla and SpaceX have each formed special committees of independent directors to study a merger at the request of shareholders, and that he is staying out of their talks as &quot;a conflicted party,&quot; &lt;a href=&quot;https://www.theguardian.com/science/2026/oct/20/spacex-revenue-earnings-report&quot;&gt;The Guardian reported&lt;/a&gt;. No terms have been agreed.&lt;/p&gt;&lt;p&gt;TSLA rose 1.54% to $373.71 on Tuesday, the best showing among the &quot;Magnificent Seven&quot; megacaps, &lt;a href=&quot;https://finance.yahoo.com/markets/stocks/articles/markets-news-oct-20-2026-103252254.html&quot;&gt;Investopedia reported&lt;/a&gt;, and gained another 1.2% after hours, according to &lt;a href=&quot;https://news.bloomberglaw.com/antitrust/musk-says-spacex-tesla-have-formed-committees-to-explore-merger&quot;&gt;Bloomberg Law&lt;/a&gt;.&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>Tuesday, October 20, 2026: Results tomorrow, and a new FSD build today</title>
     <link rel="alternate" type="text/html" href="https://cfmayer.github.io/tesla-dispatch/issues/2026-10-20/"/>
