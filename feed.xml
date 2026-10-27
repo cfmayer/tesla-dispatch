@@ -5,10 +5,19 @@
   <link rel="self" type="application/atom+xml" href="https://cfmayer.github.io/tesla-dispatch/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://cfmayer.github.io/tesla-dispatch/"/>
   <id>https://cfmayer.github.io/tesla-dispatch/</id>
-  <updated>2026-10-26T12:10:34-04:00</updated>
+  <updated>2026-10-27T09:15:49-04:00</updated>
   <author><name>The Tesla Dispatch</name></author>
   <icon>https://cfmayer.github.io/tesla-dispatch/apple-touch-icon.png</icon>
-  <rights>The Tesla Dispatch is an independent weekday digest of public news, X posts, regulatory filings and market data about Tesla, and is not affiliated with the company. Quotes are verbatim; emoji in quoted posts are omitted for print. Market data are delayed and may be revised. Not investment advice.</rights>
+  <rights>The Tesla Dispatch is an independent weekday digest of public news, X posts, regulatory filings and market data about Tesla, Inc., and is not affiliated with the company. Quotes are verbatim; emoji in quoted posts are omitted for print. Market data are delayed and may be revised. Not investment advice.</rights>
+  <entry>
+    <title>Tuesday, October 27, 2026: Six million miles between major collisions</title>
+    <link rel="alternate" type="text/html" href="https://cfmayer.github.io/tesla-dispatch/issues/2026-10-27/"/>
+    <link rel="enclosure" type="application/pdf" length="1325508" href="https://cfmayer.github.io/tesla-dispatch/issues/2026-10-27/tesla-dispatch-2026-10-27.pdf"/>
+    <id>https://cfmayer.github.io/tesla-dispatch/issues/2026-10-27/</id>
+    <published>2026-10-27T08:00:00-04:00</published>
+    <updated>2026-10-27T09:15:49-04:00</updated>
+    <summary type="html">&lt;p&gt;Teslas driven with FSD (Supervised) went 6,006,200 miles per major collision in North America over the latest 12 months, against 2,031,221 miles for Teslas driven manually with active safety features, 845,915 without them and a U.S. average of 660,164, according to Tesla&#x27;s updated &lt;a href=&quot;https://www.tesla.com/fsd/safety&quot;&gt;safety page&lt;/a&gt;, which Sawyer Merritt &lt;a aria-label=&quot;posted: @SawyerMerritt on X&quot; href=&quot;https://x.com/SawyerMerritt/status/2114924525536034869&quot;&gt;posted&lt;/a&gt; at 11:37 p.m. EDT Monday. Tesla counts a collision against FSD if the system was active within five seconds of impact, does not assign fault and updates the figures quarterly. The page&#x27;s counter has passed 16.7 billion FSD miles, more than 6.6 billion of them on city streets.&lt;/p&gt;&lt;p&gt;The period covers about 9.48 billion FSD miles and 1,579 major collisions, and the minor-collision rate was one every 1,760,823 miles against 685,390 for manual driving with active safety, &lt;a href=&quot;https://www.tesla-mag.com/en/tesla-fsd-safety-report-major-collision-6-million-miles/&quot;&gt;Tesla Mag&lt;/a&gt; reported; China is not included. Tesla&#x27;s fleet now drives &quot;an average of 1,000 miles every 1.8 seconds on FSD, or 50M miles per day,&quot; Merritt &lt;a href=&quot;https://x.com/SawyerMerritt/status/2114919820168688115&quot;&gt;wrote&lt;/a&gt; at 11:19 p.m. The company&#x27;s safety claims for the software &quot;are highly contested by safety researchers,&quot; &lt;a href=&quot;https://www.timeslive.co.za/motoring/2026-10-27-tesla-owners-in-slovakia-cheer-new-self-driving-rollout/&quot;&gt;Reuters noted&lt;/a&gt; on Tuesday.&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>Monday, October 26, 2026: Latvia makes ten</title>
     <link rel="alternate" type="text/html" href="https://cfmayer.github.io/tesla-dispatch/issues/2026-10-26/"/>
