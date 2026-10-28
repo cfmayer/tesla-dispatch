@@ -5,10 +5,19 @@
   <link rel="self" type="application/atom+xml" href="https://cfmayer.github.io/tesla-dispatch/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://cfmayer.github.io/tesla-dispatch/"/>
   <id>https://cfmayer.github.io/tesla-dispatch/</id>
-  <updated>2026-10-27T09:15:49-04:00</updated>
+  <updated>2026-10-28T09:12:46-04:00</updated>
   <author><name>The Tesla Dispatch</name></author>
   <icon>https://cfmayer.github.io/tesla-dispatch/apple-touch-icon.png</icon>
   <rights>The Tesla Dispatch is an independent weekday digest of public news, X posts, regulatory filings and market data about Tesla, Inc., and is not affiliated with the company. Quotes are verbatim; emoji in quoted posts are omitted for print. Market data are delayed and may be revised. Not investment advice.</rights>
+  <entry>
+    <title>Wednesday, October 28, 2026: Cybercabs now outnumber Model Ys in the Texas fleet</title>
+    <link rel="alternate" type="text/html" href="https://cfmayer.github.io/tesla-dispatch/issues/2026-10-28/"/>
+    <link rel="enclosure" type="application/pdf" length="692130" href="https://cfmayer.github.io/tesla-dispatch/issues/2026-10-28/tesla-dispatch-2026-10-28.pdf"/>
+    <id>https://cfmayer.github.io/tesla-dispatch/issues/2026-10-28/</id>
+    <published>2026-10-28T08:00:00-04:00</published>
+    <updated>2026-10-28T09:12:46-04:00</updated>
+    <summary type="html">&lt;p&gt;Tesla&#x27;s purpose-built Cybercab has become the majority vehicle in the company&#x27;s authorized Robotaxi fleet in Texas for the first time, &lt;a href=&quot;https://finance.yahoo.com/markets/stocks/articles/tsla-stock-rises-cybercabs-overtake-223957703.html&quot;&gt;Yahoo Finance reported&lt;/a&gt; on Tuesday, citing Texas Department of Motor Vehicles data: of 1,051 authorized vehicles, 544 are Cybercabs and 507 are Model Ys. As recently as early October the registry showed roughly 319 Cybercabs against 420 Model Ys. The data show which vehicles are authorized for Robotaxi service, not whether they are on the road carrying riders.&lt;/p&gt;&lt;p&gt;Registrations kept coming after the crossover. &quot;Tesla just registered another 29 Cybercabs for its Robotaxi fleet, bringing the total number of Cybercabs registered to date to 573, according to the Texas DMV,&quot; Sawyer Merritt &lt;a aria-label=&quot;posted: @SawyerMerritt on X&quot; href=&quot;https://x.com/SawyerMerritt/status/2115271067992297952&quot;&gt;posted&lt;/a&gt; at 10:34 p.m. EDT Tuesday, adding that Tesla had registered 222 in the last week. The Cybercab runs only in Austin for now, and Tesla said on last week&#x27;s earnings call that it wants to add Cybercabs in Dallas next month. &quot;We want to swarm Austin with Cybercabs everywhere. There&#x27;s no fundamental reason that we are limited to Austin,&quot; AI vice president Ashok Elluswamy said on the call (&lt;a href=&quot;https://finance.yahoo.com/markets/stocks/articles/tsla-stock-rises-cybercabs-overtake-223957703.html&quot;&gt;Yahoo Finance&lt;/a&gt;). &quot;Right now, we&#x27;re building at the rate that the Robotaxi service needs the vehicles,&quot; said Lars Moravy, vice president of vehicle engineering.&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>Tuesday, October 27, 2026: Six million miles between major collisions</title>
     <link rel="alternate" type="text/html" href="https://cfmayer.github.io/tesla-dispatch/issues/2026-10-27/"/>
