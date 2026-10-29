@@ -5,10 +5,19 @@
   <link rel="self" type="application/atom+xml" href="https://cfmayer.github.io/tesla-dispatch/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://cfmayer.github.io/tesla-dispatch/"/>
   <id>https://cfmayer.github.io/tesla-dispatch/</id>
-  <updated>2026-10-28T09:12:46-04:00</updated>
+  <updated>2026-10-29T09:28:03-04:00</updated>
   <author><name>The Tesla Dispatch</name></author>
   <icon>https://cfmayer.github.io/tesla-dispatch/apple-touch-icon.png</icon>
   <rights>The Tesla Dispatch is an independent weekday digest of public news, X posts, regulatory filings and market data about Tesla, Inc., and is not affiliated with the company. Quotes are verbatim; emoji in quoted posts are omitted for print. Market data are delayed and may be revised. Not investment advice.</rights>
+  <entry>
+    <title>Thursday, October 29, 2026: Seoul court rejects owners&#x27; FSD refund suit</title>
+    <link rel="alternate" type="text/html" href="https://cfmayer.github.io/tesla-dispatch/issues/2026-10-29/"/>
+    <link rel="enclosure" type="application/pdf" length="914710" href="https://cfmayer.github.io/tesla-dispatch/issues/2026-10-29/tesla-dispatch-2026-10-29.pdf"/>
+    <id>https://cfmayer.github.io/tesla-dispatch/issues/2026-10-29/</id>
+    <published>2026-10-29T08:00:00-04:00</published>
+    <updated>2026-10-29T09:28:03-04:00</updated>
+    <summary type="html">&lt;p&gt;A Seoul court on Thursday dismissed all claims by Tesla owners who bought the Full Self-Driving option between 2019 and 2022 and sued for their money back, ruling that the purchase was not a contractual promise of fully driverless, Level 5 autonomy. The 30th civil division of the Seoul Central District Court, presided over by Judge Kim Seok-beom, ruled against 89 owners who had each paid about 9 million won for the option and filed suit in December 2024, the &lt;a href=&quot;https://en.sedaily.com/society/2026/10/29/tesla-owners-lose-suit-seeking-refunds-for-fsd-option-in&quot;&gt;Seoul Economic Daily&lt;/a&gt; reported; &lt;a href=&quot;https://www.channelnewsasia.com/business/seoul-court-dismisses-lawsuit-tesla-owners-seeking-refunds-full-self-driving-tech-6501971&quot;&gt;CNA&lt;/a&gt; put the number of plaintiffs at 88.&lt;/p&gt;&lt;p&gt;The court treated the sale as a contract with an uncertain delivery term, found that fitting cars with Hardware 3 rather than Hardware 4 was not non-performance, and said delays to further features stemmed from regulatory approval rather than a breach, according to the &lt;a href=&quot;https://en.sedaily.com/society/2026/10/29/tesla-owners-lose-suit-seeking-refunds-for-fsd-option-in&quot;&gt;Seoul Economic Daily&lt;/a&gt; and &lt;a href=&quot;https://news.sbs.co.kr/english/article.do?news_id=N1008821215&quot;&gt;SBS&lt;/a&gt;. CNA noted that a recent update brought traffic-light and stop-sign recognition and city-street driving to Hardware 3 cars in Korea. The decision is at the trial-court level (&lt;a href=&quot;https://www.starnewskorea.com/en/business-life/2026/10/29/2026102915452143373&quot;&gt;Star News&lt;/a&gt;).&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>Wednesday, October 28, 2026: Cybercabs now outnumber Model Ys in the Texas fleet</title>
     <link rel="alternate" type="text/html" href="https://cfmayer.github.io/tesla-dispatch/issues/2026-10-28/"/>
