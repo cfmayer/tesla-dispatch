@@ -5,10 +5,19 @@
   <link rel="self" type="application/atom+xml" href="https://cfmayer.github.io/tesla-dispatch/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://cfmayer.github.io/tesla-dispatch/"/>
   <id>https://cfmayer.github.io/tesla-dispatch/</id>
-  <updated>2026-11-03T08:52:31-05:00</updated>
+  <updated>2026-11-03T09:20:47-05:00</updated>
   <author><name>The Tesla Dispatch</name></author>
   <icon>https://cfmayer.github.io/tesla-dispatch/apple-touch-icon.png</icon>
   <rights>The Tesla Dispatch is an independent weekday digest of public news, X posts, regulatory filings and market data about Tesla, Inc., and is not affiliated with the company. Quotes are verbatim; emoji in quoted posts are omitted for print. Market data are delayed and may be revised. Not investment advice.</rights>
+  <entry>
+    <title>Tuesday, November 3, 2026: China-made sales rise for a 12th month</title>
+    <link rel="alternate" type="text/html" href="https://cfmayer.github.io/tesla-dispatch/issues/2026-11-03/"/>
+    <link rel="enclosure" type="application/pdf" length="781879" href="https://cfmayer.github.io/tesla-dispatch/issues/2026-11-03/tesla-dispatch-2026-11-03.pdf"/>
+    <id>https://cfmayer.github.io/tesla-dispatch/issues/2026-11-03/</id>
+    <published>2026-11-03T08:00:00-05:00</published>
+    <updated>2026-11-03T09:20:47-05:00</updated>
+    <summary type="html">&lt;p&gt;Tesla sold 67,829 cars made at its Shanghai plant in October, including exports to Europe, Asia Pacific and Canada, up 10.3% from a year earlier, according to China Passenger Car Association data reported by &lt;a href=&quot;https://www.investing.com/news/economic-indicators/teslas-chinamade-ev-sales-rise-103-yy-in-october-4994214&quot;&gt;Reuters&lt;/a&gt; on Tuesday. That was faster than September&#x27;s 5% annual gain and the 12th straight month of growth, though sales fell 28.9% from September&#x27;s 95,366, the final month of the third quarter. October&#x27;s total was the lowest since February, &lt;a href=&quot;https://cnevpost.com/2026/11/03/tesla-china-oct-2026-wholesale/&quot;&gt;CnEVPost&lt;/a&gt; noted.&lt;/p&gt;&lt;p&gt;In Europe, Tesla registered 6,742 cars in October across seven markets that have reported so far, up 69% from 3,985 a year earlier, according to national data compiled by &lt;a href=&quot;https://eletric-vehicles.com/tesla/tesla-registrations-jump-69-in-seven-european-markets-in-october/&quot;&gt;EV&lt;/a&gt;. October 2025 was one of Tesla&#x27;s weakest months in the region, so the comparison is easy, and October is usually the slowest month of a quarter because Tesla concentrates deliveries toward quarter-end.&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>Monday, November 2, 2026: Robotaxi opens in Fort Worth</title>
     <link rel="alternate" type="text/html" href="https://cfmayer.github.io/tesla-dispatch/issues/2026-11-02/"/>
