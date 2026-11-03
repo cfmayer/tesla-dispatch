@@ -5,10 +5,19 @@
   <link rel="self" type="application/atom+xml" href="https://cfmayer.github.io/tesla-dispatch/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://cfmayer.github.io/tesla-dispatch/"/>
   <id>https://cfmayer.github.io/tesla-dispatch/</id>
-  <updated>2026-10-30T09:10:43-04:00</updated>
+  <updated>2026-11-03T08:52:31-05:00</updated>
   <author><name>The Tesla Dispatch</name></author>
   <icon>https://cfmayer.github.io/tesla-dispatch/apple-touch-icon.png</icon>
   <rights>The Tesla Dispatch is an independent weekday digest of public news, X posts, regulatory filings and market data about Tesla, Inc., and is not affiliated with the company. Quotes are verbatim; emoji in quoted posts are omitted for print. Market data are delayed and may be revised. Not investment advice.</rights>
+  <entry>
+    <title>Monday, November 2, 2026: Robotaxi opens in Fort Worth</title>
+    <link rel="alternate" type="text/html" href="https://cfmayer.github.io/tesla-dispatch/issues/2026-11-02/"/>
+    <link rel="enclosure" type="application/pdf" length="3031520" href="https://cfmayer.github.io/tesla-dispatch/issues/2026-11-02/tesla-dispatch-2026-11-02.pdf"/>
+    <id>https://cfmayer.github.io/tesla-dispatch/issues/2026-11-02/</id>
+    <published>2026-11-02T08:00:00-05:00</published>
+    <updated>2026-11-03T08:52:31-05:00</updated>
+    <summary type="html">&lt;p&gt;&quot;Robotaxi available in Fort Worth starting tomorrow, 6am,&quot; Tesla&#x27;s Robotaxi account &lt;a aria-label=&quot;posted: @robotaxi on X&quot; href=&quot;https://x.com/robotaxi/status/2117128711761985656&quot;&gt;posted&lt;/a&gt; at 12:36 a.m. EST Monday, which put the first rides at 7 a.m. EST (6 a.m. Central) on Monday, Nov 2. Fort Worth is Tesla&#x27;s fourth Robotaxi city in Texas, after Austin, Dallas and Houston, and its first new city in about three months, Sawyer Merritt &lt;a href=&quot;https://x.com/SawyerMerritt/status/2117129992815726783&quot;&gt;wrote&lt;/a&gt; five minutes later.&lt;/p&gt;&lt;p&gt;The launch map shows a single zone centered on downtown, reaching north toward Saginaw, west past White Settlement and southwest toward Benbrook, according to &lt;a href=&quot;https://teslanorth.com/2026/11/01/tesla-robotaxi-fort-worth-launch/&quot;&gt;TeslaNorth&lt;/a&gt;, which noted that Tesla has not said how many vehicles will serve the city or whether rides will carry a safety monitor. Robotaxi hours run from 6 a.m. to 2 a.m. after last week&#x27;s extension. Ashok Elluswamy, who leads Tesla&#x27;s AI software, &lt;a href=&quot;https://x.com/aelluswamy/status/2117139835370852501&quot;&gt;reposted&lt;/a&gt; the announcement at 1:20 a.m.&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>Friday, October 30, 2026: Tesla trades car referrals for FSD referrals</title>
     <link rel="alternate" type="text/html" href="https://cfmayer.github.io/tesla-dispatch/issues/2026-10-30/"/>
