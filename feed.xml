@@ -5,10 +5,19 @@
   <link rel="self" type="application/atom+xml" href="https://cfmayer.github.io/tesla-dispatch/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://cfmayer.github.io/tesla-dispatch/"/>
   <id>https://cfmayer.github.io/tesla-dispatch/</id>
-  <updated>2026-11-05T08:52:24-05:00</updated>
+  <updated>2026-11-09T08:36:01-05:00</updated>
   <author><name>The Tesla Dispatch</name></author>
   <icon>https://cfmayer.github.io/tesla-dispatch/apple-touch-icon.png</icon>
   <rights>The Tesla Dispatch is an independent weekday digest of public news, X posts, regulatory filings and market data about Tesla, Inc., and is not affiliated with the company. Quotes are verbatim; emoji in quoted posts are omitted for print. Market data are delayed and may be revised. Not investment advice.</rights>
+  <entry>
+    <title>Friday, November 6, 2026: Cybertruck yields floor space to Cybercab</title>
+    <link rel="alternate" type="text/html" href="https://cfmayer.github.io/tesla-dispatch/issues/2026-11-06/"/>
+    <link rel="enclosure" type="application/pdf" length="1470507" href="https://cfmayer.github.io/tesla-dispatch/issues/2026-11-06/tesla-dispatch-2026-11-06.pdf"/>
+    <id>https://cfmayer.github.io/tesla-dispatch/issues/2026-11-06/</id>
+    <published>2026-11-06T08:00:00-05:00</published>
+    <updated>2026-11-09T08:36:01-05:00</updated>
+    <summary type="html">&lt;p&gt;Elon Musk said overnight that Tesla will wind down Cybertruck production at Gigafactory Texas around mid-2027 &quot;to make room for increased Cybercab production,&quot; in a &lt;a aria-label=&quot;post: @elonmusk on X&quot; href=&quot;https://x.com/elonmusk/status/2118591788701421573&quot;&gt;post&lt;/a&gt; at 1:30 a.m. EST Friday. He later told a reader the Cybertruck fleet &quot;will be around for a long time.&quot; Cybertruck Lead Engineer Wes Morrill said spare parts and service will continue. &lt;a href=&quot;https://www.cnbc.com/2026/11/06/tesla-cybertruck-texas-musk.html&quot;&gt;CNBC&lt;/a&gt; noted Musk did not say whether truck assembly moves elsewhere; Texas is the only known plant equipped for the stainless-steel pickup.&lt;/p&gt;&lt;p&gt;Hours earlier, Tesla raised U.S. Cybertruck stickers again and paused new orders for the Dual-Motor all-wheel-drive trim. TSLA fell 10.8% on Thursday as broader markets sold off. Separately, Musk amplified South Korea data showing Tesla still No. 1 among imported brands for a ninth month, and said Terafab &quot;is moving fast.&quot;&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>Thursday, November 5, 2026: Cybercabs winter-test in Detroit</title>
     <link rel="alternate" type="text/html" href="https://cfmayer.github.io/tesla-dispatch/issues/2026-11-05/"/>
