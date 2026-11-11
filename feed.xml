@@ -5,10 +5,19 @@
   <link rel="self" type="application/atom+xml" href="https://cfmayer.github.io/tesla-dispatch/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://cfmayer.github.io/tesla-dispatch/"/>
   <id>https://cfmayer.github.io/tesla-dispatch/</id>
-  <updated>2026-11-10T09:02:06-05:00</updated>
+  <updated>2026-11-11T09:00:24-05:00</updated>
   <author><name>The Tesla Dispatch</name></author>
   <icon>https://cfmayer.github.io/tesla-dispatch/apple-touch-icon.png</icon>
   <rights>The Tesla Dispatch is an independent weekday digest of public news, X posts, regulatory filings and market data about Tesla, Inc., and is not affiliated with the company. Quotes are verbatim; emoji in quoted posts are omitted for print. Market data are delayed and may be revised. Not investment advice.</rights>
+  <entry>
+    <title>Wednesday, November 11, 2026: Finland clears Tesla Assisted Driving as Tesla edges past Waymo in Texas</title>
+    <link rel="alternate" type="text/html" href="https://cfmayer.github.io/tesla-dispatch/issues/2026-11-11/"/>
+    <link rel="enclosure" type="application/pdf" length="640851" href="https://cfmayer.github.io/tesla-dispatch/issues/2026-11-11/tesla-dispatch-2026-11-11.pdf"/>
+    <id>https://cfmayer.github.io/tesla-dispatch/issues/2026-11-11/</id>
+    <published>2026-11-11T08:00:00-05:00</published>
+    <updated>2026-11-11T09:00:24-05:00</updated>
+    <summary type="html">&lt;p&gt;Finland&#x27;s transport agency recognized the Dutch approval of Tesla Assisted Driving, the European name for FSD (Supervised), on Tuesday, making it the 11th European country to allow the system, &lt;a href=&quot;https://www.traficom.fi/en/news/teslas-driver-assistance-system-now-permitted-finnish-roads&quot;&gt;Traficom said&lt;/a&gt; on Wednesday. &quot;Rollout begins soon,&quot; &lt;a href=&quot;https://x.com/teslaeurope/status/2120400770952745439&quot;&gt;Tesla Europe&lt;/a&gt; posted.&lt;/p&gt;&lt;p&gt;In Texas, the state&#x27;s automated-vehicle register now lists 1,302 vehicles for Tesla&#x27;s Robotaxi service against 1,297 for Waymo, the first time Tesla has led, &lt;a href=&quot;https://evwire.com/p/tesla-overtakes-waymo-texas-robotaxi-registrations&quot;&gt;EVwire&lt;/a&gt; reported. Tesla also opened a six-stall Semi Megacharger near Chicago, and a Tesla tuner offered to take over the Cybertruck line. TSLA rose 0.5% on Tuesday to $379.78.&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>Tuesday, November 10, 2026: Austin&#x27;s Robotaxi map grows 63% as the Cybertruck narrows to one trim</title>
     <link rel="alternate" type="text/html" href="https://cfmayer.github.io/tesla-dispatch/issues/2026-11-10/"/>
