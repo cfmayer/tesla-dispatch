@@ -5,10 +5,19 @@
   <link rel="self" type="application/atom+xml" href="https://cfmayer.github.io/tesla-dispatch/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://cfmayer.github.io/tesla-dispatch/"/>
   <id>https://cfmayer.github.io/tesla-dispatch/</id>
-  <updated>2026-11-12T08:59:09-05:00</updated>
+  <updated>2026-11-13T09:01:45-05:00</updated>
   <author><name>The Tesla Dispatch</name></author>
   <icon>https://cfmayer.github.io/tesla-dispatch/apple-touch-icon.png</icon>
   <rights>The Tesla Dispatch is an independent weekday digest of public news, X posts, regulatory filings and market data about Tesla, Inc., and is not affiliated with the company. Quotes are verbatim; emoji in quoted posts are omitted for print. Market data are delayed and may be revised. Not investment advice.</rights>
+  <entry>
+    <title>Friday, November 13, 2026: SpaceX and Tesla merger talks gather pace</title>
+    <link rel="alternate" type="text/html" href="https://cfmayer.github.io/tesla-dispatch/issues/2026-11-13/"/>
+    <link rel="enclosure" type="application/pdf" length="807896" href="https://cfmayer.github.io/tesla-dispatch/issues/2026-11-13/tesla-dispatch-2026-11-13.pdf"/>
+    <id>https://cfmayer.github.io/tesla-dispatch/issues/2026-11-13/</id>
+    <published>2026-11-13T08:00:00-05:00</published>
+    <updated>2026-11-13T09:01:45-05:00</updated>
+    <summary type="html">&lt;p&gt;Boards and advisers at SpaceX and Tesla are working through the terms and governance of a combination that could be announced as soon as December, &lt;a href=&quot;https://www.bloomberg.com/news/articles/2026-11-12/spacex-and-tesla-talks-on-record-merger-are-said-to-progress&quot;&gt;Bloomberg reported&lt;/a&gt; on Thursday, according to &lt;a href=&quot;https://driveteslacanada.ca/news/spacex-tesla-merger-december-report&quot;&gt;Drive Tesla&lt;/a&gt;. A deal would join two companies worth more than $3.4 trillion together, and the people cited said the announcement could also slip into early 2027. TSLA rose 1.7% to $397.45, touching its high for the day after the report.&lt;/p&gt;&lt;p&gt;By Friday morning, Texas&#x27;s incoming attorney general, Nathan Johnson, had said any such merger &quot;warrants tremendous scrutiny,&quot; &lt;a href=&quot;https://qz.com/texas-attorney-general-johnson-spacex-tesla-merger-scrutiny-111326&quot;&gt;Quartz&lt;/a&gt; reported. Closer to the showroom, Tesla took its $41,990 Model Y All-Wheel Drive off the US order page, and a European software update quietly capped how far FSD may drive over the speed limit.&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>Thursday, November 12, 2026: Robotaxi goes around the clock as the Cybertruck gets a summer reprieve</title>
     <link rel="alternate" type="text/html" href="https://cfmayer.github.io/tesla-dispatch/issues/2026-11-12/"/>
