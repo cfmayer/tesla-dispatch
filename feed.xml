@@ -5,10 +5,19 @@
   <link rel="self" type="application/atom+xml" href="https://cfmayer.github.io/tesla-dispatch/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://cfmayer.github.io/tesla-dispatch/"/>
   <id>https://cfmayer.github.io/tesla-dispatch/</id>
-  <updated>2026-11-13T09:01:45-05:00</updated>
+  <updated>2026-11-16T08:59:44-05:00</updated>
   <author><name>The Tesla Dispatch</name></author>
   <icon>https://cfmayer.github.io/tesla-dispatch/apple-touch-icon.png</icon>
   <rights>The Tesla Dispatch is an independent weekday digest of public news, X posts, regulatory filings and market data about Tesla, Inc., and is not affiliated with the company. Quotes are verbatim; emoji in quoted posts are omitted for print. Market data are delayed and may be revised. Not investment advice.</rights>
+  <entry>
+    <title>Monday, November 16, 2026: The Cybercab goes on sale, by invitation</title>
+    <link rel="alternate" type="text/html" href="https://cfmayer.github.io/tesla-dispatch/issues/2026-11-16/"/>
+    <link rel="enclosure" type="application/pdf" length="2927932" href="https://cfmayer.github.io/tesla-dispatch/issues/2026-11-16/tesla-dispatch-2026-11-16.pdf"/>
+    <id>https://cfmayer.github.io/tesla-dispatch/issues/2026-11-16/</id>
+    <published>2026-11-16T08:00:00-05:00</published>
+    <updated>2026-11-16T08:59:44-05:00</updated>
+    <summary type="html">&lt;p&gt;Tesla began inviting selected customers on Friday evening to buy a Cybercab for personal use at an estimated $29,990, with a required $299-a-month Autonomy Subscription and deliveries estimated for December in its Texas Robotaxi cities, &lt;a href=&quot;https://eletric-vehicles.com/tesla/tesla-opens-cybercab-sales-with-new-299-monthly-fee-musk-says-too-high/&quot;&gt;EV (eletric-vehicles.com)&lt;/a&gt; reported. The two-seater has no steering wheel or pedals and will drive only inside Tesla&#x27;s Robotaxi service areas. Within hours Elon Musk said the monthly fee was too high and should fall to about $115.&lt;/p&gt;&lt;p&gt;Tesla&#x27;s charging account announced 26 new Supercharger sites and a Megacharger in the past week, Robotaxi widened its Miami service area, and on Monday the Dutch vehicle authority approved a stricter version of Tesla Assisted Driving for Europe. TSLA fell 1.8% to $390.22 on Friday, before the Cybercab announcement.&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>Friday, November 13, 2026: SpaceX and Tesla merger talks gather pace</title>
     <link rel="alternate" type="text/html" href="https://cfmayer.github.io/tesla-dispatch/issues/2026-11-13/"/>
