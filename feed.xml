@@ -5,10 +5,19 @@
   <link rel="self" type="application/atom+xml" href="https://cfmayer.github.io/tesla-dispatch/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://cfmayer.github.io/tesla-dispatch/"/>
   <id>https://cfmayer.github.io/tesla-dispatch/</id>
-  <updated>2026-11-16T08:59:44-05:00</updated>
+  <updated>2026-11-17T09:03:47-05:00</updated>
   <author><name>The Tesla Dispatch</name></author>
   <icon>https://cfmayer.github.io/tesla-dispatch/apple-touch-icon.png</icon>
   <rights>The Tesla Dispatch is an independent weekday digest of public news, X posts, regulatory filings and market data about Tesla, Inc., and is not affiliated with the company. Quotes are verbatim; emoji in quoted posts are omitted for print. Market data are delayed and may be revised. Not investment advice.</rights>
+  <entry>
+    <title>Tuesday, November 17, 2026: Tesla picks Berlin for a second Cybercab factory</title>
+    <link rel="alternate" type="text/html" href="https://cfmayer.github.io/tesla-dispatch/issues/2026-11-17/"/>
+    <link rel="enclosure" type="application/pdf" length="791107" href="https://cfmayer.github.io/tesla-dispatch/issues/2026-11-17/tesla-dispatch-2026-11-17.pdf"/>
+    <id>https://cfmayer.github.io/tesla-dispatch/issues/2026-11-17/</id>
+    <published>2026-11-17T08:00:00-05:00</published>
+    <updated>2026-11-17T09:03:47-05:00</updated>
+    <summary type="html">&lt;p&gt;Tesla will spend about €3 billion ($3.3 billion) on a new production hall at its plant in Grünheide, outside Berlin, designed to build up to 1 million Cybercabs a year, with construction planned for the first half of 2027 and production in 2029, &lt;a href=&quot;https://eletric-vehicles.com/tesla/tesla-to-invest-3-3-billion-in-berlin-hall-that-could-build-cybercabs/&quot;&gt;EV (eletric-vehicles.com)&lt;/a&gt; reported on Monday, citing a company statement carried by the German news agency dpa. It is the first time Tesla has given a timeline for building the two-seat robotaxi outside the United States.&lt;/p&gt;&lt;p&gt;Later on Monday, Elon Musk said trials letting owners put their own cars on the Robotaxi network could start next month, and Robotaxi riders can now pay with X Money. Tesla&#x27;s Megapack team has a reveal planned for today at the RE+ energy show in Las Vegas. TSLA fell 2.7% to $379.74 on Monday as the Nasdaq 100 dropped 2.7%.&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>Monday, November 16, 2026: The Cybercab goes on sale, by invitation</title>
     <link rel="alternate" type="text/html" href="https://cfmayer.github.io/tesla-dispatch/issues/2026-11-16/"/>
