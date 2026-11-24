@@ -5,10 +5,28 @@
   <link rel="self" type="application/atom+xml" href="https://cfmayer.github.io/tesla-dispatch/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://cfmayer.github.io/tesla-dispatch/"/>
   <id>https://cfmayer.github.io/tesla-dispatch/</id>
-  <updated>2026-11-20T09:08:00-05:00</updated>
+  <updated>2026-11-24T09:04:00-05:00</updated>
   <author><name>The Tesla Dispatch</name></author>
   <icon>https://cfmayer.github.io/tesla-dispatch/apple-touch-icon.png</icon>
   <rights>The Tesla Dispatch is an independent weekday digest of public news, X posts, regulatory filings and market data about Tesla, Inc., and is not affiliated with the company. Quotes are verbatim; emoji in quoted posts are omitted for print. Market data are delayed and may be revised. Not investment advice.</rights>
+  <entry>
+    <title>Tuesday, November 24, 2026: TSLA jumps 11.5% as FSD v15 clips spread and merger talks take shape</title>
+    <link rel="alternate" type="text/html" href="https://cfmayer.github.io/tesla-dispatch/issues/2026-11-24/"/>
+    <link rel="enclosure" type="application/pdf" length="757212" href="https://cfmayer.github.io/tesla-dispatch/issues/2026-11-24/tesla-dispatch-2026-11-24.pdf"/>
+    <id>https://cfmayer.github.io/tesla-dispatch/issues/2026-11-24/</id>
+    <published>2026-11-24T08:00:00-05:00</published>
+    <updated>2026-11-24T09:04:00-05:00</updated>
+    <summary type="html">&lt;p&gt;Tesla shares rose 11.46% to $385.46 on Monday as the FSD (Supervised) v15 rollout and talk of a SpaceX combination met a market rebound sparked by Nvidia&#x27;s reinstatement of Jensen Huang; the Nasdaq 100 gained 6.86%. Tesla spent the afternoon sharing owners&#x27; first v15 drives, from two hours in Manhattan to a car steering around a fallen branch, while the software quietly dropped the menu that asked drivers why they took over.&lt;/p&gt;&lt;p&gt;The Financial Times reported that five directors, three from Tesla and two from SpaceX, now lead the committees negotiating an all-stock merger, with Evercore advising Tesla. Tesla filed new letters urging shareholders to vote before the Dec. 3 annual meeting, and its energy and charging accounts promoted Powerwall&#x27;s Storm Watch mode and new categories for reporting broken chargers.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>Monday, November 23, 2026: FSD v15 reaches its first owners, with a car-drawn view of the road</title>
+    <link rel="alternate" type="text/html" href="https://cfmayer.github.io/tesla-dispatch/issues/2026-11-23/"/>
+    <link rel="enclosure" type="application/pdf" length="3468419" href="https://cfmayer.github.io/tesla-dispatch/issues/2026-11-23/tesla-dispatch-2026-11-23.pdf"/>
+    <id>https://cfmayer.github.io/tesla-dispatch/issues/2026-11-23/</id>
+    <published>2026-11-23T08:00:00-05:00</published>
+    <updated>2026-11-24T09:04:00-05:00</updated>
+    <summary type="html">&lt;p&gt;Tesla began rolling out FSD (Supervised) v15 on Saturday afternoon, claiming &quot;25x better handling of safety critical cases&quot; and debuting Tesla Reality View, a generated overhead picture of the drive that shows where the car plans to turn and park. Elon Musk said the wide release follows next month, that Tesla&#x27;s next chip, AI5, will go to the Optimus robot while cars stay on AI4, and that built-in Starlink for every model could come toward the end of next year.&lt;/p&gt;&lt;p&gt;Tesla Charging posted 20 new Supercharger sites with 238 stalls last week, plus a Megacharger in Mesquite, Texas; Tesla said it will fund Quebec&#x27;s $2,000 EV rebate after the province&#x27;s program ends; and Cybertrucks from model year 2027 turn tighter than a Model Y. TSLA fell 7.6% to $345.82 on Friday as the S&amp;amp;P 500 dropped 3.7% and HSBC moved the stock to Hold from Reduce.&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>Friday, November 20, 2026: The Cybercab reaches Dallas, and Italy says yes to FSD</title>
     <link rel="alternate" type="text/html" href="https://cfmayer.github.io/tesla-dispatch/issues/2026-11-20/"/>
