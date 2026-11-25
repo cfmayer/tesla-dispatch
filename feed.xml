@@ -5,10 +5,19 @@
   <link rel="self" type="application/atom+xml" href="https://cfmayer.github.io/tesla-dispatch/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://cfmayer.github.io/tesla-dispatch/"/>
   <id>https://cfmayer.github.io/tesla-dispatch/</id>
-  <updated>2026-11-24T09:04:00-05:00</updated>
+  <updated>2026-11-25T09:08:01-05:00</updated>
   <author><name>The Tesla Dispatch</name></author>
   <icon>https://cfmayer.github.io/tesla-dispatch/apple-touch-icon.png</icon>
   <rights>The Tesla Dispatch is an independent weekday digest of public news, X posts, regulatory filings and market data about Tesla, Inc., and is not affiliated with the company. Quotes are verbatim; emoji in quoted posts are omitted for print. Market data are delayed and may be revised. Not investment advice.</rights>
+  <entry>
+    <title>Wednesday, November 25, 2026: Europe pushes Tesla&#x27;s software meeting to Dec. 15 as v15 reaches older Model Ys</title>
+    <link rel="alternate" type="text/html" href="https://cfmayer.github.io/tesla-dispatch/issues/2026-11-25/"/>
+    <link rel="enclosure" type="application/pdf" length="794428" href="https://cfmayer.github.io/tesla-dispatch/issues/2026-11-25/tesla-dispatch-2026-11-25.pdf"/>
+    <id>https://cfmayer.github.io/tesla-dispatch/issues/2026-11-25/</id>
+    <published>2026-11-25T08:00:00-05:00</published>
+    <updated>2026-11-25T09:08:01-05:00</updated>
+    <summary type="html">&lt;p&gt;The European Union committee that could approve Tesla&#x27;s supervised driver-assistance system across the bloc will now meet on Dec. 15 instead of Dec. 1, a European Commission spokesperson told &lt;a href=&quot;https://live.euronext.com/en/financial-news/eu-postpones-discussion-approve-teslas-self-driving-tech&quot;&gt;Reuters&lt;/a&gt; on Wednesday. At home, FSD (Supervised) v15.0.1 has begun reaching Model Y cars of the previous design that have Tesla&#x27;s AI4 computer but no front bumper camera, a sign the rollout is widening beyond the refreshed crossover.&lt;/p&gt;&lt;p&gt;Tesla raised the Cyberbeast&#x27;s price by another $5,000 to $114,990 and stopped offering Cybertruck leases, General Motors said it will adopt Tesla&#x27;s charging connector in South Korea, and WattEV put its first Tesla Semis to work at the Port of Oakland. TSLA slipped 0.2% to $384.68 on Tuesday, and Seaport Global started coverage at Buy with a $475 target.&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>Tuesday, November 24, 2026: TSLA jumps 11.5% as FSD v15 clips spread and merger talks take shape</title>
     <link rel="alternate" type="text/html" href="https://cfmayer.github.io/tesla-dispatch/issues/2026-11-24/"/>
