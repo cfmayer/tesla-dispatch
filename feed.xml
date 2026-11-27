@@ -5,10 +5,19 @@
   <link rel="self" type="application/atom+xml" href="https://cfmayer.github.io/tesla-dispatch/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://cfmayer.github.io/tesla-dispatch/"/>
   <id>https://cfmayer.github.io/tesla-dispatch/</id>
-  <updated>2026-11-26T09:26:27-05:00</updated>
+  <updated>2026-11-27T09:05:36-05:00</updated>
   <author><name>The Tesla Dispatch</name></author>
   <icon>https://cfmayer.github.io/tesla-dispatch/apple-touch-icon.png</icon>
   <rights>The Tesla Dispatch is an independent weekday digest of public news, X posts, regulatory filings and market data about Tesla, Inc., and is not affiliated with the company. Quotes are verbatim; emoji in quoted posts are omitted for print. Market data are delayed and may be revised. Not investment advice.</rights>
+  <entry>
+    <title>Friday, November 27, 2026: A record 285 Cybercabs on Thanksgiving push Tesla past 1,000 in Texas</title>
+    <link rel="alternate" type="text/html" href="https://cfmayer.github.io/tesla-dispatch/issues/2026-11-27/"/>
+    <link rel="enclosure" type="application/pdf" length="624193" href="https://cfmayer.github.io/tesla-dispatch/issues/2026-11-27/tesla-dispatch-2026-11-27.pdf"/>
+    <id>https://cfmayer.github.io/tesla-dispatch/issues/2026-11-27/</id>
+    <published>2026-11-27T08:00:00-05:00</published>
+    <updated>2026-11-27T09:05:36-05:00</updated>
+    <summary type="html">&lt;p&gt;Tesla registered a record 285 Cybercabs with Texas on Thanksgiving, taking its count of the steering-wheel-free two-seaters past 1,000 for the first time, as FSD v15 took over the top of Tesla&#x27;s US homepage and showroom displays. Elon Musk agreed with an owner who called a storm drive on FSD 15.0.1 &quot;flawless&quot; and thanked Tesla&#x27;s customers for the holiday.&lt;/p&gt;&lt;p&gt;A new software update, 2026.44.3.1, lets drivers warm the battery manually before a fast charge and adds Automatic Collision Evasion on Hardware 4 cars, and Tesla Charging posted six new Supercharger sites across Asia and Australia. Drone footage showed Giga Press foundations at Giga Texas&#x27;s Optimus factory. Markets were closed Thursday; TSLA&#x27;s last close was $380.14 on Wednesday, and today&#x27;s session ends early, at 1:00 p.m. EST.&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>Thursday, November 26, 2026: Robotaxi&#x27;s Dallas zone grows 83% as Tesla readies its chargers for the holiday</title>
     <link rel="alternate" type="text/html" href="https://cfmayer.github.io/tesla-dispatch/issues/2026-11-26/"/>
